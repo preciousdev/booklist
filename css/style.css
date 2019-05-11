@@ -1,1 +1,10 @@
 @import './bootstrap.min.css';
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 20px;
+}
